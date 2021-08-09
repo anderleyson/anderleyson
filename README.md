@@ -14,21 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image]({[BadgeURLHere](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)})
-
-
-<img src="{[BadgeURLHere](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)}" />
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anderleyson)](https://github.com/anderleyson/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anderleyson&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anderleyson&layout=compact)](https://github.com/anderleyson/github-readme-stats&theme=dracula)
 
 
 
-
-<a href="https://github.com/anderleyson/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anderleyson&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anderleyson/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anderleyson&repo=convoychat" />
-</a>
