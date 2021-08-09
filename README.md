@@ -18,11 +18,16 @@ Here are some ideas to get you started:
 
 # Salve ( ͡❛ ͜ʖ͡❛ )✌
 
-Técnico em informática apaixonado por tecnologia e dev back-end recém formardo no curso preparatório pra desenvolvedor full stack pela Gama Academy <img src="https://media4.giphy.com/media/IO2ICudgtBjby/200w.webp?cid=ecf05e479qw79fo9wshyh1w41k3qocf943ym1khr2juy6jye&rid=200w.webp&ct=g"  />
-
+<ul>
+<li>Técnico em informática apaixonado por tecnologia e dev back-end recém formardo no curso preparatório pra desenvolvedor full stack pela Gama Academy
 - 💾 Cursando Análise e Desenvolvimento de Sistemas - IFSP
 - 📍  Guarulhos, SP
-- 🤝 
+- 🤝</li>
+  <li><img src="https://media4.giphy.com/media/IO2ICudgtBjby/200w.webp?cid=ecf05e479qw79fo9wshyh1w41k3qocf943ym1khr2juy6jye&rid=200w.webp&ct=g"  />
+</li>
+
+</ul> 
+ 
 
 ### Programação na veia! 💪💻
 [<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />](https://github.com/anderleyson) 
