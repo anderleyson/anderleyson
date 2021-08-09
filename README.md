@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 
 <img src="{[BadgeURLHere](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)}" />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anderleyson)](https://github.com/anderleyson/github-readme-stats)
