@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
-### Salve ( ͡❛ ͜ʖ͡❛ )✌
+# Salve ( ͡❛ ͜ʖ͡❛ )✌
 
 Sou téc
 - 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
@@ -45,14 +44,6 @@ Sou téc
 [<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />]() 
-
-
-
-
-
-
-
-
 
 
 
