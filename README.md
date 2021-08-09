@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 
 Técnico em informática e dev back-end recém formardo no curso preparatório pra desenvolvedor full stack pela Gama Academy. Possuo boas práticas de programação, conhecimento em programação orientada a objetos, metodologias ágeis, linguagens de programação como Javascript, Java, C# e ASP.NET; e bancos de dados(SQL e NoSQL) como MySQL, MongoDB e Firebase.
 
-No meu tempo livre gosto de sair para praticar esportes, me encontrar com amigos ou ficar em casa jogando, além de assistir um Narutinho. Profissionalmente sou dedicado, pontual e obcecado por organização. Busco sempre estudar sobre minha área e coisas novas para aprender me chamam atenção. Esse é meu jeito programador de ser. [Tô certo!! 😁👍]
+No meu tempo livre gosto de sair para praticar esportes, me encontrar com amigos ou ficar em casa jogando, além de assistir um Narutinho. 
+
+Profissionalmente sou dedicado, pontual e obcecado por organização. Busco sempre estudar sobre minha área e coisas novas para aprender me chamam atenção. Esse é meu jeito programador de ser. [Tô certo!! 😁👍]
 
 Buscando primeira oportunidade de crescimento profissional no mundo da programação. 
 
