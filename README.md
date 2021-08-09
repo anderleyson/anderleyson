@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 # Salve ( ͡❛ ͜ʖ͡❛ )✌
 
-Técnico em informática e dev back-end recém formardo no curso preparatório pra desenvolvedor full stack pela Gama Academy
+Técnico em informática apaixonado por tecnologia e dev back-end recém formardo no curso preparatório pra desenvolvedor full stack pela Gama Academy
 
 - 💾 Cursando Análise e Desenvolvimento de Sistemas - IFSP
-- 📍 Guarulhos, SP
+- 📍  Guarulhos, SP
 - 🤝 
 
 ### Programação na veia! 💪💻
@@ -33,13 +33,13 @@ Técnico em informática e dev back-end recém formardo no curso preparatório p
 [<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />](https://github.com/anderleyson)  
 [<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />](https://github.com/anderleyson)
 [<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />](https://github.com/anderleyson)
-
+----------------------------------------------------------------------------------------------------
 [<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />](https://github.com/anderleyson)
 [<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />](https://github.com/anderleyson)
 [<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />](https://github.com/anderleyson)
 [<img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />](https://github.com/anderleyson)
 [<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />](https://github.com/anderleyson)
-
+----------------------------------------------------------------------------------------------------
 [<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />](https://github.com/anderleyson)
 [<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />](https://github.com/anderleyson)
 [<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />](https://github.com/anderleyson)
@@ -51,7 +51,7 @@ Técnico em informática e dev back-end recém formardo no curso preparatório p
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anderleyson&show_icons=true&theme=dracula)
 
 
-
+----------------------------------------------------------------------------------------------------
 ### Vamos nos conectar? 🤝
   [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/anderleyson)
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anderleyson/) 
