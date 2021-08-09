@@ -19,12 +19,17 @@ Here are some ideas to get you started:
 # Salve ( ͡❛ ͜ʖ͡❛ )✌
 
 
-<img src="https://media4.giphy.com/media/IO2ICudgtBjby/200w.webp?cid=ecf05e479qw79fo9wshyh1w41k3qocf943ym1khr2juy6jye&rid=200w.webp&ct=g" alt="Naruto" align="right" height="150">
+<img src="https://media1.giphy.com/media/ohT97gdpR40vK/200w.webp?cid=ecf05e4795cpot969ilmvdf46f5qujqolwqka11frdajtb0f&rid=200w.webp&ct=g" alt="Naruto" align="left" height="180">
 
-Técnico em informática apaixonado por tecnologia e dev back-end recém formardo no curso preparatório pra desenvolvedor full stack pela Gama Academy
+Técnico em informática e dev back-end recém formardo no curso preparatório pra desenvolvedor full stack pela Gama Academy. Possuo boas práticas de programação, conhecimento em programação orientada a objetos, linguagens de programação como Javascript, Java, C#, etc; e bancos de dados(SQL e NoSQL) como MySQL, MongoDB e Firebase.
+Buscando primeira oportunidade de crescimento profissional no mundo da programação. 
+
 - 💾 Cursando Análise e Desenvolvimento de Sistemas - IFSP
 - 📍  Guarulhos, SP
-- 🤝
+- 🤝 Apaixonado por tecnologia
+- 🇯🇵  Entusiasta de animes 
+- 🎮 Amante de jogos eletrônicos e jogos de tabuleiro
+- 👾 Apaixonado por tecnologia
 
 
  
