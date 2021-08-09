@@ -24,7 +24,7 @@ Técnico em informática apaixonado por tecnologia e dev back-end recém formard
 - 📍  Guarulhos, SP
 - 🤝
 
-<img src="https://media4.giphy.com/media/IO2ICudgtBjby/200w.webp?cid=ecf05e479qw79fo9wshyh1w41k3qocf943ym1khr2juy6jye&rid=200w.webp&ct=g" alt="Naruto" align="right" height="200">
+<img src="https://media4.giphy.com/media/IO2ICudgtBjby/200w.webp?cid=ecf05e479qw79fo9wshyh1w41k3qocf943ym1khr2juy6jye&rid=200w.webp&ct=g" alt="Naruto" align="top-right" height="150">
 
  
  
