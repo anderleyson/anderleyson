@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 # Salve ( ͡❛ ͜ʖ͡❛ )✌
 
 
+<img src="https://media4.giphy.com/media/IO2ICudgtBjby/200w.webp?cid=ecf05e479qw79fo9wshyh1w41k3qocf943ym1khr2juy6jye&rid=200w.webp&ct=g" alt="Naruto" align="right" height="150">
+
 Técnico em informática apaixonado por tecnologia e dev back-end recém formardo no curso preparatório pra desenvolvedor full stack pela Gama Academy
 - 💾 Cursando Análise e Desenvolvimento de Sistemas - IFSP
 - 📍  Guarulhos, SP
 - 🤝
 
-<img src="https://media4.giphy.com/media/IO2ICudgtBjby/200w.webp?cid=ecf05e479qw79fo9wshyh1w41k3qocf943ym1khr2juy6jye&rid=200w.webp&ct=g" alt="Naruto" align="top-right" height="150">
 
  
  
