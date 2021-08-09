@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Salve ( ͡❛ ͜ʖ͡❛ )✌
 
-<ul>
+<ul style-type="none">
 <li>Técnico em informática apaixonado por tecnologia e dev back-end recém formardo no curso preparatório pra desenvolvedor full stack pela Gama Academy
 - 💾 Cursando Análise e Desenvolvimento de Sistemas - IFSP
 - 📍  Guarulhos, SP
