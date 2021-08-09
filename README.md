@@ -22,6 +22,13 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anderleyson)](https://github.com/anderleyson/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anderleyson&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anderleyson&langs_count=8)](https://github.com/anderleyson/github-readme-stats)
 
 
+
+
+<a href="https://github.com/anderleyson/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anderleyson&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anderleyson/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anderleyson&repo=convoychat" />
+</a>
