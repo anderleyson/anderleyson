@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Salve ( ͡❛ ͜ʖ͡❛ )✌
 
 
-<img src="https://media1.giphy.com/media/ohT97gdpR40vK/200w.webp?cid=ecf05e4795cpot969ilmvdf46f5qujqolwqka11frdajtb0f&rid=200w.webp&ct=g" alt="Naruto" align="left" height="180">
+<img src="https://media1.giphy.com/media/ohT97gdpR40vK/200w.webp?cid=ecf05e4795cpot969ilmvdf46f5qujqolwqka11frdajtb0f&rid=200w.webp&ct=g" alt="Naruto" align="left" height="150">
 
 Técnico em informática e dev back-end recém formardo no curso preparatório pra desenvolvedor full stack pela Gama Academy. Possuo boas práticas de programação, conhecimento em programação orientada a objetos, linguagens de programação como Javascript, Java, C#, etc; e bancos de dados(SQL e NoSQL) como MySQL, MongoDB e Firebase.
 Buscando primeira oportunidade de crescimento profissional no mundo da programação. 
