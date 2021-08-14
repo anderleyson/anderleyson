@@ -31,7 +31,6 @@ Buscando primeira oportunidade de crescimento profissional no mundo da programa�
 
 - 💾 Cursando Análise e Desenvolvimento de Sistemas - IFSP
 - 📍  Guarulhos, SP
-- 🤝 Apaixonado por tecnologia
 - 📺 Entusiasta de animes 
 - 🎮 Amante de jogos eletrônicos e jogos de tabuleiro
 - 👾 Apaixonado por tecnologia
