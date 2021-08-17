@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <img src="https://media1.giphy.com/media/ohT97gdpR40vK/200w.webp?cid=ecf05e4795cpot969ilmvdf46f5qujqolwqka11frdajtb0f&rid=200w.webp&ct=g" alt="Naruto" align="right" height="180">
 
-Técnico em informática e dev back-end recém formado no curso preparatório para desenvolvedor full stack pela Gama Academy. Possuo boas práticas em programação, conhecimento em programação orientada a objetos, metodologias ágeis, linguagens de programação como Javascript, Java, C# e ASP.NET; e bancos de dados(SQL e NoSQL) como MySQL, MongoDB e Firebase.
+Técnico em informática e dev back-end recém formado no curso preparatório para desenvolvedor full stack pela Gama Academy. Possuo boas práticas em programação, conhecimento em programação orientada a objetos, metodologias ágeis, linguagens de programação como Javascript, Java, C# e ASP.NET; e bancos de dados(SQL e NoSQL) como MySQL, SQL Server, MongoDB e Firebase.
 
 No meu tempo livre gosto de sair para praticar esportes, me encontrar com amigos ou ficar em casa jogando, além de assistir um Narutinho. 
 
