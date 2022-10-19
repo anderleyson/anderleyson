@@ -39,7 +39,8 @@ Buscando primeira oportunidade de crescimento profissional no mundo da programa�
  
 
 ### Programação na veia! 💪💻
-[<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />](https://github.com/anderleyson)  
+[<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />](https://github.com/anderleyson) 
+[<img src="https://img.shields.io/badge/Groovy?style=for-the-badge&logo=java&logoColor=white" />](https://github.com/anderleyson) 
 [<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />](https://github.com/anderleyson)
 [<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />](https://github.com/anderleyson)
 [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />](https://github.com/anderleyson) 
