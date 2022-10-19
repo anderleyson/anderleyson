@@ -21,11 +21,12 @@ Here are some ideas to get you started:
 
 <img src="https://media1.giphy.com/media/ohT97gdpR40vK/200w.webp?cid=ecf05e4795cpot969ilmvdf46f5qujqolwqka11frdajtb0f&rid=200w.webp&ct=g" alt="Naruto" align="right" height="180">
 
-Técnico em informática e dev back-end. Possuo boas práticas em programação, conhecimento em programação orientada a objetos, metodologias ágeis, linguagens de programação como Javascript, Java, Groovy e bancos de dados(SQL e NoSQL) como MySQL, SQL Server, MongoDB e Firebase.
+Técnico em informática e dev back-end com boas práticas em programação, conhecimento em POO, metodologias ágeis, linguagens de programação como Java, Groovy, Javascript e bancos de dados(SQL e NoSQL) como MySQL, SQL Server, MongoDB e Firebase.
+Ampliando meus conhecimentos técnicos em linguagens de programação(Dart, Kotlin), serviços de mensageria(RabbitMQ) e alguns frameworks(Spring, Grails).
 
 No meu tempo livre gosto de sair para praticar esportes, me encontrar com amigos ou ficar em casa jogando, além de assistir um Narutinho. 
 
-Profissionalmente sou dedicado, pontual e obcecado por organização. Busco sempre estudar sobre minha área e coisas novas para aprender me chamam atenção. Esse é meu jeito programador de ser. [Tô certo!! 😁👍]
+Curioso, explorador e aventureiro. Esse é meu jeito programador de ser. [Tô certo!! 😁👍]
 
 - 💾 Cursando Análise e Desenvolvimento de Sistemas - IFSP
 - 📍  Guarulhos, SP
