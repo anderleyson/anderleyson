@@ -21,13 +21,11 @@ Here are some ideas to get you started:
 
 <img src="https://media1.giphy.com/media/ohT97gdpR40vK/200w.webp?cid=ecf05e4795cpot969ilmvdf46f5qujqolwqka11frdajtb0f&rid=200w.webp&ct=g" alt="Naruto" align="right" height="180">
 
-Técnico em informática e dev back-end recém formado no curso preparatório para desenvolvedor full stack pela Gama Academy. Possuo boas práticas em programação, conhecimento em programação orientada a objetos, metodologias ágeis, linguagens de programação como Javascript, Java, C# e ASP.NET; e bancos de dados(SQL e NoSQL) como MySQL, SQL Server, MongoDB e Firebase.
+Técnico em informática e dev back-end. Possuo boas práticas em programação, conhecimento em programação orientada a objetos, metodologias ágeis, linguagens de programação como Javascript, Java, Groovy e bancos de dados(SQL e NoSQL) como MySQL, SQL Server, MongoDB e Firebase.
 
 No meu tempo livre gosto de sair para praticar esportes, me encontrar com amigos ou ficar em casa jogando, além de assistir um Narutinho. 
 
 Profissionalmente sou dedicado, pontual e obcecado por organização. Busco sempre estudar sobre minha área e coisas novas para aprender me chamam atenção. Esse é meu jeito programador de ser. [Tô certo!! 😁👍]
-
-Buscando primeira oportunidade de crescimento profissional no mundo da programação. 
 
 - 💾 Cursando Análise e Desenvolvimento de Sistemas - IFSP
 - 📍  Guarulhos, SP
@@ -36,11 +34,9 @@ Buscando primeira oportunidade de crescimento profissional no mundo da programa�
 - 👾 Apaixonado por tecnologia
 
 
- 
-
 ### Programação na veia! 💪💻
+
 [<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />](https://github.com/anderleyson) 
-[<img src="https://img.shields.io/badge/Groovy?style=for-the-badge&logo=java&logoColor=white" />](https://github.com/anderleyson) 
 [<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />](https://github.com/anderleyson)
 [<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />](https://github.com/anderleyson)
 [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />](https://github.com/anderleyson) 
@@ -49,24 +45,13 @@ Buscando primeira oportunidade de crescimento profissional no mundo da programa�
 [<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />](https://github.com/anderleyson) 
 [<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />](https://github.com/anderleyson)  
 
-
 ----------------------------------------------------------------------------------------------------
 [<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />](https://github.com/anderleyson)
 [<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />](https://github.com/anderleyson)
-[<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />](https://github.com/anderleyson)
-[<img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />](https://github.com/anderleyson)
 [<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />](https://github.com/anderleyson)
 ----------------------------------------------------------------------------------------------------
 [<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />](https://github.com/anderleyson)
 [<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />](https://github.com/anderleyson)
-[<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />](https://github.com/anderleyson)
-[<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />](https://github.com/anderleyson) 
-
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anderleyson&show_icons=true&theme=dracula)
-
 
 ----------------------------------------------------------------------------------------------------
 ### Vamos nos conectar? 🤝
